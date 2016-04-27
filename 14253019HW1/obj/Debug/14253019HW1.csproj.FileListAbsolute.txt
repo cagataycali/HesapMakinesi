@@ -1,0 +1,6 @@
+c:\users\çağatay\documents\visual studio 2015\Projects\14253019HW1\14253019HW1\bin\Debug\14253019HW1.exe.config
+c:\users\çağatay\documents\visual studio 2015\Projects\14253019HW1\14253019HW1\bin\Debug\14253019HW1.exe
+c:\users\çağatay\documents\visual studio 2015\Projects\14253019HW1\14253019HW1\bin\Debug\14253019HW1.pdb
+c:\users\çağatay\documents\visual studio 2015\Projects\14253019HW1\14253019HW1\obj\Debug\14253019HW1.exe
+c:\users\çağatay\documents\visual studio 2015\Projects\14253019HW1\14253019HW1\obj\Debug\14253019HW1.pdb
+C:\Users\Çağatay\Documents\visual studio 2015\Projects\14253019HW1\14253019HW1\obj\Debug\14253019HW1.csprojResolveAssemblyReference.cache
